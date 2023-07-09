@@ -1,0 +1,17 @@
+{
+    "การจัดการหน้าฟอร์ม": "Form page management",
+    "หน้าหลัก": "Home Page",
+    "คำนำหน้า": "prefix",
+    "ชื่อ": "First Name",
+    "นามสกุล": "Last Name",
+    "วันเกิด": "Date of Birth",
+    "สัญชาติ": "Nationality:",
+    "เลขบัตรประชาชน": "ID Card Number",
+    "เพศ": "Gender",
+    "หมายเลขโทรศัพท์": "Phone Number",
+    "หนังสือเดินทาง": "Passport",
+    "เงินเดือนที่คาดหวัง": "Expected Salary",
+    "ล้างข้อมูล": "Reset",
+    "ส่งข้อมูล": "Submit",
+    "จัดการ" : "handle"
+}
